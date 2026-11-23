@@ -26,7 +26,7 @@ Inspired by the Home Repo Pattern popularized by Matt Pocock.
 
 1. Create your copy:
    - on GitHub: **Use this template** → create `<you>/home`
-   - or locally: `git clone <this-repo> ~/proj/personal/home`
+   - or locally: `git clone https://github.com/whiplashf/agent-home-starter ~/proj/personal/home`
 2. Open the folder in your coding agent and paste [`SETUP_PROMPT.md`](SETUP_PROMPT.md).
 3. Review the plan, let it write, run the check, commit.
 
